@@ -1,0 +1,542 @@
+[
+    {
+        "REVIEW_HDR_ID": 236339,
+        "PRODUCT_ID": 29032403,
+        "PROD_NBR": 50046038,
+        "REVIEW_ID": 270280,
+        "REVIEW_TYPE": "Post-Purchase",
+        "ORDER_DATE": "17/08/2021",
+        "SUBMISSION_DATE": "2/09/2021 18:12",
+        "CUSTOMER_NAME": "Martin",
+        "REVIEW_TITLE": "Bosch Front Load Washer",
+        "REVIEW_TEXT": "Washer is great. Easy to set up and use. So much quieter than my previous washing machine. Reasonable price - good value buy",
+        "RATING": 5,
+        "VIDEO_URL": "",
+        "RECOMMENDATION": "TRUE",
+        "RESPONSE_TITLE": "",
+        "RESPONSE_TEXT": "",
+        "CUSTOM_TEXT": "",
+        "PUBLISHED": "Y",
+        "objectID": "fbd0526f748dd_dashboard_generated_id",
+        "_highlightResult": {
+            "PROD_NBR": {
+                "value": "<em>50046038</em>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                    "50046038"
+                ]
+            }
+        }
+    },
+    {
+        "REVIEW_HDR_ID": 235785,
+        "PRODUCT_ID": 18023878,
+        "PROD_NBR": 50046038,
+        "REVIEW_ID": 269703,
+        "REVIEW_TYPE": "Post-Purchase",
+        "ORDER_DATE": "31/07/2021",
+        "SUBMISSION_DATE": "1/09/2021 15:30",
+        "CUSTOMER_NAME": "Lynda Day",
+        "REVIEW_TITLE": "Just right",
+        "REVIEW_TEXT": "Perfect for my needs. Efficient and economical.",
+        "RATING": 5,
+        "VIDEO_URL": "",
+        "RECOMMENDATION": "TRUE",
+        "RESPONSE_TITLE": "",
+        "RESPONSE_TEXT": "",
+        "CUSTOM_TEXT": "",
+        "PUBLISHED": "Y",
+        "objectID": "f9dea98a61d0c_dashboard_generated_id",
+        "_highlightResult": {
+            "PROD_NBR": {
+                "value": "<em>50046038</em>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                    "50046038"
+                ]
+            }
+        }
+    },
+    {
+        "REVIEW_HDR_ID": 236336,
+        "PRODUCT_ID": 29032403,
+        "PROD_NBR": 50046038,
+        "REVIEW_ID": 270277,
+        "REVIEW_TYPE": "Post-Purchase",
+        "ORDER_DATE": "5/08/2021",
+        "SUBMISSION_DATE": "2/09/2021 18:01",
+        "CUSTOMER_NAME": "Margaux",
+        "REVIEW_TITLE": "Sturdy and quiet",
+        "REVIEW_TEXT": "I have been using the machine for 1 month now. It's been easy to set up and has been working really well so far.  It offers a large range of programs to choose from and runs very quietly (in comparison to another model we had in the past).  We're so far very satisfied with it.",
+        "RATING": 5,
+        "VIDEO_URL": "",
+        "RECOMMENDATION": "TRUE",
+        "RESPONSE_TITLE": "",
+        "RESPONSE_TEXT": "",
+        "CUSTOM_TEXT": "",
+        "PUBLISHED": "Y",
+        "objectID": "f7a338841f7b1_dashboard_generated_id",
+        "_highlightResult": {
+            "PROD_NBR": {
+                "value": "<em>50046038</em>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                    "50046038"
+                ]
+            }
+        }
+    },
+    {
+        "REVIEW_HDR_ID": 236006,
+        "PRODUCT_ID": 29032403,
+        "PROD_NBR": 50046038,
+        "REVIEW_ID": 269932,
+        "REVIEW_TYPE": "Post-Purchase",
+        "ORDER_DATE": "17/08/2021",
+        "SUBMISSION_DATE": "2/09/2021 12:16",
+        "CUSTOMER_NAME": "Sofia",
+        "REVIEW_TITLE": "Quiet & effective",
+        "REVIEW_TEXT": "Machine has multiple  functions that all wash beautifully. The super 15 minute function has clothes washed nicely in 15 mins & the cottons function is a deeper clean that takes an hour (for towels/ mixed clothes). Able to fit 1 queen size duvet with no issue as quite a good drum size.",
+        "RATING": 5,
+        "VIDEO_URL": "",
+        "RECOMMENDATION": "TRUE",
+        "RESPONSE_TITLE": "",
+        "RESPONSE_TEXT": "",
+        "CUSTOM_TEXT": "",
+        "PUBLISHED": "Y",
+        "objectID": "e1dd1bcf3cf17_dashboard_generated_id",
+        "_highlightResult": {
+            "PROD_NBR": {
+                "value": "<em>50046038</em>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                    "50046038"
+                ]
+            }
+        }
+    },
+    {
+        "REVIEW_HDR_ID": 236749,
+        "PRODUCT_ID": 29032403,
+        "PROD_NBR": 50046038,
+        "REVIEW_ID": 270711,
+        "REVIEW_TYPE": "Post-Purchase",
+        "ORDER_DATE": "12/08/2021",
+        "SUBMISSION_DATE": "3/09/2021 13:50",
+        "CUSTOMER_NAME": "Mark",
+        "REVIEW_TITLE": "Fantastic features",
+        "REVIEW_TEXT": "Efficient effective and overall awesome washing machine.",
+        "RATING": 5,
+        "VIDEO_URL": "",
+        "RECOMMENDATION": "TRUE",
+        "RESPONSE_TITLE": "",
+        "RESPONSE_TEXT": "",
+        "CUSTOM_TEXT": "",
+        "PUBLISHED": "Y",
+        "objectID": "c0f45b29ecf32_dashboard_generated_id",
+        "_highlightResult": {
+            "PROD_NBR": {
+                "value": "<em>50046038</em>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                    "50046038"
+                ]
+            }
+        }
+    },
+    {
+        "REVIEW_HDR_ID": 236224,
+        "PRODUCT_ID": 29032403,
+        "PROD_NBR": 50046038,
+        "REVIEW_ID": 270160,
+        "REVIEW_TYPE": "Anniversary",
+        "ORDER_DATE": "3/06/2021",
+        "SUBMISSION_DATE": "2/09/2021 14:10",
+        "CUSTOMER_NAME": "Peter Combe",
+        "REVIEW_TITLE": "Very easy to program",
+        "REVIEW_TEXT": "Easy to program and does a great job washing. This is our second Bosch washing machine - why - because they are good value",
+        "RATING": 5,
+        "VIDEO_URL": "",
+        "RECOMMENDATION": "TRUE",
+        "RESPONSE_TITLE": "",
+        "RESPONSE_TEXT": "",
+        "CUSTOM_TEXT": "",
+        "PUBLISHED": "Y",
+        "objectID": "a5e255bfc5cdf_dashboard_generated_id",
+        "_highlightResult": {
+            "PROD_NBR": {
+                "value": "<em>50046038</em>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                    "50046038"
+                ]
+            }
+        }
+    },
+    {
+        "REVIEW_HDR_ID": 235869,
+        "PRODUCT_ID": 29032403,
+        "PROD_NBR": 50046038,
+        "REVIEW_ID": 269791,
+        "REVIEW_TYPE": "Post-Purchase",
+        "ORDER_DATE": "17/08/2021",
+        "SUBMISSION_DATE": "1/09/2021 19:42",
+        "CUSTOMER_NAME": "Tash",
+        "REVIEW_TITLE": "Quiet and efficient",
+        "REVIEW_TEXT": "Very quiet&comma; washes well. Reminds you kg load details on screen. Second week in I am very happy with my purchase.",
+        "RATING": 5,
+        "VIDEO_URL": "",
+        "RECOMMENDATION": "TRUE",
+        "RESPONSE_TITLE": "",
+        "RESPONSE_TEXT": "",
+        "CUSTOM_TEXT": "",
+        "PUBLISHED": "Y",
+        "objectID": "7b4c98d42b609_dashboard_generated_id",
+        "_highlightResult": {
+            "PROD_NBR": {
+                "value": "<em>50046038</em>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                    "50046038"
+                ]
+            }
+        }
+    },
+    {
+        "REVIEW_HDR_ID": 236273,
+        "PRODUCT_ID": 29032403,
+        "PROD_NBR": 50046038,
+        "REVIEW_ID": 270210,
+        "REVIEW_TYPE": "Post-Purchase",
+        "ORDER_DATE": "10/08/2021",
+        "SUBMISSION_DATE": "2/09/2021 15:25",
+        "CUSTOMER_NAME": "Ashley",
+        "REVIEW_TITLE": "Very good!",
+        "REVIEW_TEXT": "Settings are straightforward&comma; and the cycle presets are easily customisable. An annoying aspect is when wanting to increase the temperature of the wash cycle you have to rotate decreasing temperature which is tiresome.  I love the feature to open the door during the early part of the wash cycle. So handy for busy households when you stumble across a dirty pair of soaks just after you start a wash. Or in my case a missed cloth nappy!  I love the childlock&comma; the friendly beeps when the cycle is finished. I love that so much is customisable&comma; spin speed&comma; temperature etc etc. I am sure that there are many features I haven't encountered yet.  I think the 8kg is the right size&comma; we are a busy household with 4 kids&comma; one in cloth nappies. I find it has significantly reduced the amount of the cycles I need to run without compromising the loading for agitation.  Overall very happy.",
+        "RATING": 5,
+        "VIDEO_URL": "",
+        "RECOMMENDATION": "TRUE",
+        "RESPONSE_TITLE": "",
+        "RESPONSE_TEXT": "",
+        "CUSTOM_TEXT": "",
+        "PUBLISHED": "Y",
+        "objectID": "21431698fbce_dashboard_generated_id",
+        "_highlightResult": {
+            "PROD_NBR": {
+                "value": "<em>50046038</em>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                    "50046038"
+                ]
+            }
+        }
+    },
+    {
+        "REVIEW_HDR_ID": 235693,
+        "PRODUCT_ID": 29032403,
+        "PROD_NBR": 50046038,
+        "REVIEW_ID": 269605,
+        "REVIEW_TYPE": "Post-Purchase",
+        "ORDER_DATE": "14/08/2021",
+        "SUBMISSION_DATE": "1/09/2021 13:13",
+        "CUSTOMER_NAME": "Margaret Russell",
+        "REVIEW_TITLE": "Love my Bosch",
+        "REVIEW_TEXT": "Our old Bosch front loader served us well for 14 yrs&comma; but in the end it said: \"I have had enough\"!  The replacement one is so much quieter & does not fibrate on spinning&comma; plus size of the drum is a bit bigger. Very happy.",
+        "RATING": 5,
+        "VIDEO_URL": "",
+        "RECOMMENDATION": "TRUE",
+        "RESPONSE_TITLE": "",
+        "RESPONSE_TEXT": "",
+        "CUSTOM_TEXT": "",
+        "PUBLISHED": "Y",
+        "objectID": "1e1604ff456a2b_dashboard_generated_id",
+        "_highlightResult": {
+            "PROD_NBR": {
+                "value": "<em>50046038</em>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                    "50046038"
+                ]
+            }
+        }
+    },
+    {
+        "REVIEW_HDR_ID": 236706,
+        "PRODUCT_ID": 29032403,
+        "PROD_NBR": 50046038,
+        "REVIEW_ID": 270667,
+        "REVIEW_TYPE": "Post-Purchase",
+        "ORDER_DATE": "20/08/2021",
+        "SUBMISSION_DATE": "3/09/2021 13:20",
+        "CUSTOMER_NAME": "Tammy",
+        "REVIEW_TITLE": "Great machine",
+        "REVIEW_TEXT": "Excellent cycles and energy effective",
+        "RATING": 5,
+        "VIDEO_URL": "",
+        "RECOMMENDATION": "TRUE",
+        "RESPONSE_TITLE": "",
+        "RESPONSE_TEXT": "",
+        "CUSTOM_TEXT": "",
+        "PUBLISHED": "Y",
+        "objectID": "1c0af4adf8a5d0_dashboard_generated_id",
+        "_highlightResult": {
+            "PROD_NBR": {
+                "value": "<em>50046038</em>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                    "50046038"
+                ]
+            }
+        }
+    },
+    {
+        "REVIEW_HDR_ID": 236610,
+        "PRODUCT_ID": 29032403,
+        "PROD_NBR": 50046038,
+        "REVIEW_ID": 270567,
+        "REVIEW_TYPE": "Post-Purchase",
+        "ORDER_DATE": "11/08/2021",
+        "SUBMISSION_DATE": "3/09/2021 12:28",
+        "CUSTOMER_NAME": "Noreen Goding",
+        "REVIEW_TITLE": "Very happy with performance",
+        "REVIEW_TEXT": "Very easy to use",
+        "RATING": 5,
+        "VIDEO_URL": "",
+        "RECOMMENDATION": "TRUE",
+        "RESPONSE_TITLE": "",
+        "RESPONSE_TEXT": "",
+        "CUSTOM_TEXT": "",
+        "PUBLISHED": "Y",
+        "objectID": "17461ef2371c2e_dashboard_generated_id",
+        "_highlightResult": {
+            "PROD_NBR": {
+                "value": "<em>50046038</em>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                    "50046038"
+                ]
+            }
+        }
+    },
+    {
+        "REVIEW_HDR_ID": 235726,
+        "PRODUCT_ID": 29032403,
+        "PROD_NBR": 50046038,
+        "REVIEW_ID": 269639,
+        "REVIEW_TYPE": "Anniversary",
+        "ORDER_DATE": "3/06/2021",
+        "SUBMISSION_DATE": "1/09/2021 13:55",
+        "CUSTOMER_NAME": "Stuart Lee",
+        "REVIEW_TITLE": "Operates extremely well.",
+        "REVIEW_TEXT": "The features of this product are amazing and very easy to operate.",
+        "RATING": 5,
+        "VIDEO_URL": "",
+        "RECOMMENDATION": "TRUE",
+        "RESPONSE_TITLE": "",
+        "RESPONSE_TEXT": "",
+        "CUSTOM_TEXT": "",
+        "PUBLISHED": "Y",
+        "objectID": "12c021def2740_dashboard_generated_id",
+        "_highlightResult": {
+            "PROD_NBR": {
+                "value": "<em>50046038</em>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                    "50046038"
+                ]
+            }
+        }
+    },
+    {
+        "REVIEW_HDR_ID": 236147,
+        "PRODUCT_ID": 29032403,
+        "PROD_NBR": 50046038,
+        "REVIEW_ID": 270077,
+        "REVIEW_TYPE": "Post-Purchase",
+        "ORDER_DATE": "18/08/2021",
+        "SUBMISSION_DATE": "2/09/2021 13:04",
+        "CUSTOMER_NAME": "Rod Clapp",
+        "REVIEW_TITLE": "Second Bosch",
+        "REVIEW_TEXT": "Replacement for a Bosch front load washer which gave 10 years faithful service. I couldn't look past another Bosch",
+        "RATING": 5,
+        "VIDEO_URL": "",
+        "RECOMMENDATION": "TRUE",
+        "RESPONSE_TITLE": "",
+        "RESPONSE_TEXT": "",
+        "CUSTOM_TEXT": "",
+        "PUBLISHED": "Y",
+        "objectID": "11d700ba4621a9_dashboard_generated_id",
+        "_highlightResult": {
+            "PROD_NBR": {
+                "value": "<em>50046038</em>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                    "50046038"
+                ]
+            }
+        }
+    },
+    {
+        "REVIEW_HDR_ID": 236693,
+        "PRODUCT_ID": 29032403,
+        "PROD_NBR": 50046038,
+        "REVIEW_ID": 270653,
+        "REVIEW_TYPE": "Post-Purchase",
+        "ORDER_DATE": "19/08/2021",
+        "SUBMISSION_DATE": "3/09/2021 13:11",
+        "CUSTOMER_NAME": "Ailsa",
+        "REVIEW_TITLE": "Excellent washer",
+        "REVIEW_TEXT": "this is a great machine you will love it",
+        "RATING": 4,
+        "VIDEO_URL": "",
+        "RECOMMENDATION": "TRUE",
+        "RESPONSE_TITLE": "",
+        "RESPONSE_TEXT": "",
+        "CUSTOM_TEXT": "",
+        "PUBLISHED": "Y",
+        "objectID": "c9d0d666418f6_dashboard_generated_id",
+        "_highlightResult": {
+            "PROD_NBR": {
+                "value": "<em>50046038</em>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                    "50046038"
+                ]
+            }
+        }
+    },
+    {
+        "REVIEW_HDR_ID": 236022,
+        "PRODUCT_ID": 29032403,
+        "PROD_NBR": 50046038,
+        "REVIEW_ID": 269949,
+        "REVIEW_TYPE": "Post-Purchase",
+        "ORDER_DATE": "16/08/2021",
+        "SUBMISSION_DATE": "2/09/2021 12:19",
+        "CUSTOMER_NAME": "DT",
+        "REVIEW_TITLE": "Great Value For The Money",
+        "REVIEW_TEXT": "I was referred to the brand by a friend who mentioned it was on sale at The Good Guys. The machine runs very quietly&comma; even through the higher velocity spin cycles. The multiple settings for adding additional wash cycles is really great.",
+        "RATING": 4,
+        "VIDEO_URL": "",
+        "RECOMMENDATION": "TRUE",
+        "RESPONSE_TITLE": "",
+        "RESPONSE_TEXT": "",
+        "CUSTOM_TEXT": "",
+        "PUBLISHED": "Y",
+        "objectID": "b8c76f587582_dashboard_generated_id",
+        "_highlightResult": {
+            "PROD_NBR": {
+                "value": "<em>50046038</em>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                    "50046038"
+                ]
+            }
+        }
+    },
+    {
+        "REVIEW_HDR_ID": 236872,
+        "PRODUCT_ID": 29032403,
+        "PROD_NBR": 50046038,
+        "REVIEW_ID": 270848,
+        "REVIEW_TYPE": "Post-Purchase",
+        "ORDER_DATE": "12/08/2021",
+        "SUBMISSION_DATE": "3/09/2021 18:17",
+        "CUSTOMER_NAME": "Anonymous",
+        "REVIEW_TITLE": "",
+        "REVIEW_TEXT": "",
+        "RATING": 4,
+        "VIDEO_URL": "",
+        "RECOMMENDATION": "TRUE",
+        "RESPONSE_TITLE": "",
+        "RESPONSE_TEXT": "",
+        "CUSTOM_TEXT": "",
+        "PUBLISHED": "Y",
+        "objectID": "b0bd12664a75f_dashboard_generated_id",
+        "_highlightResult": {
+            "PROD_NBR": {
+                "value": "<em>50046038</em>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                    "50046038"
+                ]
+            }
+        }
+    },
+    {
+        "REVIEW_HDR_ID": 236308,
+        "PRODUCT_ID": 29032403,
+        "PROD_NBR": 50046038,
+        "REVIEW_ID": 270247,
+        "REVIEW_TYPE": "Post-Purchase",
+        "ORDER_DATE": "18/08/2021",
+        "SUBMISSION_DATE": "2/09/2021 16:38",
+        "CUSTOMER_NAME": "Lindsay",
+        "REVIEW_TITLE": "Excellent spin cycle",
+        "REVIEW_TEXT": "Im annoyed the drainage hose doesnt come with an attachment to hold the hose in place on the sink. My previous Bosch came with this. Now I have to mess around finding the attachment and ordering it. Silly and an oversight  on the manufacturers behalf.  Apart from this it is an excellent machine.",
+        "RATING": 4,
+        "VIDEO_URL": "",
+        "RECOMMENDATION": "TRUE",
+        "RESPONSE_TITLE": "",
+        "RESPONSE_TEXT": "",
+        "CUSTOM_TEXT": "",
+        "PUBLISHED": "Y",
+        "objectID": "15b63da0b591c6_dashboard_generated_id",
+        "_highlightResult": {
+            "PROD_NBR": {
+                "value": "<em>50046038</em>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                    "50046038"
+                ]
+            }
+        }
+    },
+    {
+        "REVIEW_HDR_ID": 235874,
+        "PRODUCT_ID": 29032403,
+        "PROD_NBR": 50046038,
+        "REVIEW_ID": 269796,
+        "REVIEW_TYPE": "Post-Purchase",
+        "ORDER_DATE": "17/08/2021",
+        "SUBMISSION_DATE": "1/09/2021 20:06",
+        "CUSTOMER_NAME": "Dennis G",
+        "REVIEW_TITLE": "Good reliable machine",
+        "REVIEW_TEXT": "Overall Really good  new machine with touch screen technology-  easy to use",
+        "RATING": 4,
+        "VIDEO_URL": "",
+        "RECOMMENDATION": "TRUE",
+        "RESPONSE_TITLE": "",
+        "RESPONSE_TEXT": "",
+        "CUSTOM_TEXT": "",
+        "PUBLISHED": "Y",
+        "objectID": "11c04a80255a46_dashboard_generated_id",
+        "_highlightResult": {
+            "PROD_NBR": {
+                "value": "<em>50046038</em>",
+                "matchLevel": "full",
+                "fullyHighlighted": true,
+                "matchedWords": [
+                    "50046038"
+                ]
+            }
+        }
+    }
+]
